@@ -5,4 +5,7 @@ export class AuthentificationService {
   signIn() {
     return true;
   }
+  SignOut() {
+    return false;
+  }
 }
